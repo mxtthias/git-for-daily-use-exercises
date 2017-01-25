@@ -14,5 +14,5 @@ branch into your own. Resolve any conflicts.
 
 * `git fetch`
 * `git merge origin/<branch>`
-* `git merge --continue`/`git merge --abort`
+* `git merge --abort`
 
