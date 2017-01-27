@@ -1,4 +1,8 @@
 What is the difference between a hippo and a Zippo?
+<<<<<<< HEAD
 Vad har lagts till i answers?
+=======
+Hur många bor det i Stockholm?
+>>>>>>> origin/ex3-matthias
 
 Knock knock?
