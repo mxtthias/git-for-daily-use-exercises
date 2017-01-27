@@ -13,6 +13,6 @@ done, make sure `ex2-main` is up to date using `git pull`.
 
 * `git merge --no-ff <branch>`
 * `git rebase <branch>`
-* `git pull --rebase`
+* `git pull`
 * `git fetch` (Always useful)
 
